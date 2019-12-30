@@ -1,8 +1,8 @@
 {
-  "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+  "body": "{\"content\":\"prueba 3\",\"attachment\":\"test3.jpg\"}",
   "requestContext": {
     "identity": {
-      "cognitoIdentityId": "USER-SUB-1234"
+      "cognitoIdentityId": "USER-SUB-9123"
     }
   }
 }
